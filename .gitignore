@@ -1,0 +1,7 @@
+cache/*
+exports/*
+test_db-master/*
+*.ipynb
+*.png
+*.log
+*.zip
